@@ -1,0 +1,325 @@
+* {
+    margin: o;
+    padding: o;
+    box-sizing: border-box;
+}
+
+/* navigation */
+
+#navigation {
+    max-width: 1200px;
+    width: 100%;
+    background: #F7F4FF;
+    padding: 12px 24px;
+    margin-left: 689px;
+}
+
+#logo-nextmove {
+    vertical-align: middle;
+    display: inline-block;
+    margin-right: 277px;
+}
+
+#navigation_list {
+    vertical-align: middle;
+    display: inline-block;
+    
+}
+    
+#about {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #323;
+    font-size: 18px;
+}
+
+#what_we_offer {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #323;
+    font-size: 18px;
+}
+
+#contact_us {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #8E26C0;
+    font-size: 18px;
+}
+
+#help {
+    margin-right: 200px;
+    text-decoration: none;
+    color: #323;
+    font-size: 18px;
+    border-style: none;
+}
+
+#navigation_button {
+    display: inline-block;
+    border: 1px solid #8E26C0;
+    border-radius: 8px;
+    
+}
+
+#contact_us_button  {
+    color: #8E26C0;
+    font-size: 14px;
+    padding: 8px 16px;
+}
+
+/* first_section */ 
+
+#main_container {
+    max-width: 1316px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#first_section_photo {
+    max-width: 610px;
+    margin-right: 44px;
+    margin-top: 57px;
+}
+
+#first_section_article {
+    max-width: 644px;
+    margin-left: auto;
+    display: inline-block;
+}
+
+#first_section_h {
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+    padding-bottom: 16px;
+}
+
+#first_section_p {
+    color: #535862;
+    font-size: 20px;
+    padding-bottom: 16px;
+}
+
+#first_section_list {
+    color: #000;
+    font-size: 24px;
+}
+
+/* second section */
+
+#second_section {
+    max-width: 905px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#second_section_h {
+    text-align: center;
+    margin-top: 168px;
+    color: #000;
+    font-size: 56px;
+}
+
+#second_section_p {
+    color: #535862;
+    font-size: 20px;
+}
+
+#contact_us_h {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#contact_info_main {
+    border-radius: 16px;
+    background: #F7F4FF;
+
+}
+            /* send container */
+
+#send_container {
+    border-radius: 16px;
+
+}
+
+#left_container {
+    display: inline-block;
+    background: #F7F4FF;
+    padding: 32px;
+    display: inline-block;
+    height: 403px;
+}
+
+#address_img {
+    vertical-align: middle;
+    border-radius: 50px;
+    background: #F7F4FF;
+    padding: 10px;
+ 
+}
+
+#adress_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#email_img {
+    vertical-align: middle;
+    border-radius: 50px;
+    background: #F7F4FF;
+    padding: 10px;
+ 
+}
+
+#email_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#phone_img {
+    vertical-align: middle;
+    border-radius: 50px;
+    background: #F7F4FF;
+    padding: 10px;
+ 
+}
+
+#phone_box {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+                        /* right_container */
+#right_container {
+    display: inline-block;
+    margin-left: 24px;
+}            
+
+#text_label {
+    display: block;
+    
+}
+
+#text {
+    padding: 8px 16px;
+    color: #6D5F8B;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+    margin-bottom: 24px;
+    
+}
+
+#email_label {
+    display: block;
+}
+
+#email {
+    padding: 8px 16px;
+    color: #6D5F8B;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    width: 698px;
+    margin-bottom: 24px;
+}
+
+#text_area {
+    display: block;
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    padding: 12px 16px;
+    width: 698px;
+    height: 100px;
+   
+
+}
+
+#send_message {
+    color: #1B003D;
+    font-size: 32px;  
+}
+
+#send_button {
+    max-width: 698px;
+    max-width: 100%;
+    text-align: right;
+    margin-top: 10px;
+}
+
+#buton {
+    padding: 12px 24px;
+    border-radius: 8px;
+    background: #8E26C0;
+    width: 140px;
+    height: 48px;
+    color: #fff;
+    font-size: 16px;
+
+}
+
+footer  {
+    background-color: #53389E;
+    margin-top: 163px;
+    padding-top: 64px;
+    padding-bottom: 48px;
+}
+
+#footer_container {
+    max-width: 1280px;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 20px;
+
+}
+
+#list a {
+    display: block;
+    text-decoration: none;
+    margin-top: 12px;
+    color: #E9D7FE;
+    font-size: 16px;
+}
+
+#list {
+    display: inline-block;
+    width: 176px;
+    text-align: center;
+}
+
+#p_and_list {
+    display: inline-block;
+}
+
+#list p {
+    color: #D6BBFB;
+    font-size: 16px;
+}
+
+#new {
+    display: block;
+}
+
+#logo_and_c {
+    margin-top: 64px;
+    max-width: 1280px;
+    text-align: center;
+}
+
+#logo_wrap {
+    vertical-align: middle;
+}
+
+#last_section {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 1075px;
+    width: 100%;
+}
+
+#last_section_p {
+    text-align: right;
+    color: #D6BBFB;
+    font-size: 16px;
+}
