@@ -1,6 +1,6 @@
 * {
-    margin: o;
-    padding: o;
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -11,7 +11,7 @@
     width: 100%;
     background: #F7F4FF;
     padding: 12px 24px;
-    margin-left: 689px;
+    margin-left: auto;
 }
 
 #logo-nextmove {
@@ -149,6 +149,7 @@
     padding: 32px;
     display: inline-block;
     height: 403px;
+    vertical-align: middle;
 }
 
 #address_img {
@@ -195,6 +196,7 @@
 #right_container {
     display: inline-block;
     margin-left: 24px;
+    vertical-align: middle;
 }            
 
 #text_label {
@@ -260,17 +262,18 @@
 }
 
 footer  {
+    width: 100%;
     background-color: #53389E;
     margin-top: 163px;
     padding-top: 64px;
     padding-bottom: 48px;
+    text-align: c;
 }
 
 #footer_container {
-    max-width: 1280px;
-    margin: 0 auto;
-    max-width: 100%;
-    padding: 20px;
+    width: 100%;
+    margin: 0 32px;
+    text-align: center;
 
 }
 
@@ -285,11 +288,12 @@ footer  {
 #list {
     display: inline-block;
     width: 176px;
-    text-align: center;
+    text-align: left;
 }
 
 #p_and_list {
     display: inline-block;
+   
 }
 
 #list p {
@@ -297,29 +301,33 @@ footer  {
     font-size: 16px;
 }
 
-#new {
-    display: block;
-}
+
 
 #logo_and_c {
     margin-top: 64px;
-    max-width: 1280px;
+    border-top: 1px solid #7F56D9;;
     text-align: center;
 }
 
 #logo_wrap {
     vertical-align: middle;
+    margin-right: 690px;
 }
 
 #last_section {
     display: inline-block;
     vertical-align: middle;
     max-width: 1075px;
-    width: 100%;
 }
 
 #last_section_p {
     text-align: right;
     color: #D6BBFB;
     font-size: 16px;
+}
+
+#new {
+    padding: 2px 6px;
+    border-radius: 1px solid grey;
+
 }
